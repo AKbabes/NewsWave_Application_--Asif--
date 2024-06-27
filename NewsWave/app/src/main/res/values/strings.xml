@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">News Wave</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description">This application has been developed by Md Asif Akram, a current student pursuing Computer Science and Engineering (CSE) at Daffodil International University. It represents one of his Android projects completed during the course of pervasive mobile application design. Let us acknowledge and support his contributions, wishing success in his endeavors. God bless everyone.</string>
+</resources>

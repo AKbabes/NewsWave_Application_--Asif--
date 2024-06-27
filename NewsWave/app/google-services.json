@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "216225608279",
+    "firebase_url": "https://newswaverealtimedb-default-rtdb.firebaseio.com",
+    "project_id": "newswaverealtimedb",
+    "storage_bucket": "newswaverealtimedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216225608279:android:7efda060535e13605ba912",
+        "android_client_info": {
+          "package_name": "com.example.loginandreg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMX2GUqrYAa6VV9K0VjmCDmZrYok5ivZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216225608279:android:f46eb97e3a1112685ba912",
+        "android_client_info": {
+          "package_name": "com.example.newswave"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMX2GUqrYAa6VV9K0VjmCDmZrYok5ivZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

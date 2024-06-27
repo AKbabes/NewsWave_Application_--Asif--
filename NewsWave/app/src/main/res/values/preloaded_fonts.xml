@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alata</item>
+        <item>@font/archivo_medium</item>
+        <item>@font/berkshire_swash</item>
+        <item>@font/black_ops_one</item>
+        <item>@font/candal</item>
+    </array>
+</resources>
